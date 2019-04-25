@@ -1,0 +1,13 @@
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\obj\Debug\DataInitializersLesson.csprojAssemblyReference.cache
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\obj\Debug\DataInitializersLesson.csproj.CoreCompileInputs.cache
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\DataInitializersLesson.exe.config
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\DataInitializersLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\DataInitializersLesson.pdb
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\EntityFramework.dll
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\EntityFramework.xml
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\bin\Debug\ru\EntityFramework.resources.dll
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\obj\Debug\DataInitializersLesson.csproj.CopyComplete
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\obj\Debug\DataInitializersLesson.exe
+C:\Users\ДжабашевН.CORP\source\repos\DataInitializersLesson\DataInitializersLesson\obj\Debug\DataInitializersLesson.pdb
